@@ -1,0 +1,3 @@
+# FunctionalProgramming
+
+関数型プログラミングの勉強をまとめたディレクトリ
